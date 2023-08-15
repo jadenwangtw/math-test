@@ -1,7 +1,7 @@
 package logic
 
 import (
-	"math-test/common/gamestructs"
+	"github.com/jadenwangtw/math-test/common/gamestructs"
 )
 
 type (
