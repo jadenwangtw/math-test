@@ -17,6 +17,6 @@ func NewSlotGame1201() *SlotGame1201 {
 // GetSpinResult
 func (g *SlotGame1201) GetSpinResult() *gamestructs.SpinResult {
 	return &gamestructs.SpinResult{
-		Seq: 1234,
+		Seq: 1002,
 	}
 }
